@@ -1,0 +1,134 @@
+body{
+  text-align: center;
+font-family: 'Inter', sans-serif;
+}
+h1{
+  margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62em;
+    color: #66BFBF;
+  }
+h2{
+  line-height: 2;
+  font-family: 'Baloo 2', cursive;
+  font-size: 2.5em;
+  color: #66BFBF;
+  font-weight: Normal;
+}
+h3{
+  font-family: 'Baloo 2', cursive;
+  color:#11999E;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  width: 8%;
+}
+a{
+  text-decoration: none;
+  color:  #11999E;
+  font-family: 'Baloo 2', cursive;
+margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+
+.Upper-container{
+  position:relative;
+  background-color: #e5f3f9 ;
+  padding-top: 40px;
+}
+.About_me{
+  text-align: left;
+}
+
+.upper_Cloud{
+  position: absolute;
+  right:200px;
+  width: 100px;
+  transform: rotate(40deg);
+}
+.Lower_Cloud{
+  position: absolute;
+  left:100px;
+  bottom:300px;
+  width:200px;
+}
+.monkey{
+  width:650px;
+}
+.profile{
+  padding: 1px;
+  width:655px;
+}
+
+
+.About_me{
+  width: 50%;
+  margin:40px auto 40px auto;
+  text-align: left;
+  line-height:2;
+}
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+  line-height:2;
+}
+.Hello{
+  text-align: left;
+}
+.skill-img1{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+.skill-img2{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+}
+.Hot-To{
+  font-size: 35px;
+}
+.Skill-Table{
+  margin-left: 80px;
+  height:100px;
+}
+.contact-me{
+padding-bottom: 100px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #349ad9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11bcd6;
+  text-decoration: none;
+}
+
+.bottom-container{
+  padding: 20px;
+  margin: 20px;
+  background-color: #66BFBF;
+  color: white;
+}
+.Design-Table:{
+ padding:0 15px 0 15px;
+}
